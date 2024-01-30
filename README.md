@@ -25,11 +25,11 @@ If you want to operate the contract with Remix after deploying it on testnet wit
 
 1: Create a same contract on remix and compile it.
 
-2: Go to DEPLOY & RUN TRANSACTIONS(on left hand panel).
+2: Go to "DEPLOY & RUN TRANSACTIONS"(on left hand panel).
 
-3: Go to the Environment(which is the first option of DEPLOY & RUN TRANSACTIONS) and change it to injected provider, then connect to your metamask wallet.
+3: Go to the "Environment"(which is the first option of DEPLOY & RUN TRANSACTIONS) and change it to 'injected provider', then connect to your metamask wallet.
 
-4: Go to At Address button under contracts heading and paste your contract address(which you got from hardhat deployment) there.
+4: Go to 'At Address' button under "Contracts" heading and paste your contract address(which you got from hardhat deployment) there.
 
 5: Scroll down, you will see the newly deployed contract there, copy its address and paste it on snowtrace(https://43113.testnet.snowtrace.io/).
 
