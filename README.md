@@ -13,15 +13,12 @@ You can refer to creation and deployment of contract on Fuji testnet through:
 https://docs.avascan.info/tutorial/deploy-and-verify-an-erc-20-token
 
 
-
 Get testing AVAX from: https://core.app/tools/testnet-faucet/?subnet=c&token=c
 
 (join their official discord and request there in order to get coupon code: https://discord.gg/Zm4T88Ja)
 
 
-
 Connect you account to the fuji testnet snowtrace: https://43113.testnet.snowtrace.io/
-
 
 
 If you want to operate the contract with Remix after deploying it on testnet with above method:
@@ -34,7 +31,7 @@ If you want to operate the contract with Remix after deploying it on testnet wit
 
 4: Go to At Address button under contracts heading and paste your contract address(which you got from hardhat deployment) there.
 
-5: You will see the contract deployed there, copy its address and paste it on snowtrace(https://43113.testnet.snowtrace.io/).
+5: Scroll down, you will see the newly deployed contract there, copy its address and paste it on snowtrace(https://43113.testnet.snowtrace.io/).
 
 
 ## Authors
